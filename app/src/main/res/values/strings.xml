@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Anime List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Development Studios</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Anime List</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="check_your_connection">Check your connection</string>
+    <string name="yes">Yes</string>
+    <string name="disconnected">disconnected</string>
+    <string name="no_internet">no internet</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="update">Update</string>
+    <string name="exit">Exit</string>
+    <string name="select_application">Select application</string>
+    <string name="anime_name">Anime Name</string>
+    <string name="country">Country</string>
+    <string name="search">search</string>
+    <string name="error">Error:</string>
+    <string name="ok">OK</string>
+    <string name="please_enter_name">Please enter the anime name</string>
+    <string name="country_flag">country flag</string>
+    <string name="web_pages">Web Pages:</string>
+    <string name="domains">Domains:</string>
+    <string name="app_icon">App Icon</string>
+</resources>
