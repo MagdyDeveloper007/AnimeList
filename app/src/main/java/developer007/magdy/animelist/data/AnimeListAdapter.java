@@ -26,15 +26,11 @@ public class AnimeListAdapter extends RecyclerView.Adapter<AnimeListAdapter.Anim
     private String strTitle, strSynopsis, strType, strRated, srtImage;
     private String strEpisodes, strScore;
 
-
-    public static AppCompatActivity appCompatActivity;
-
     @NonNull
     @Override
     public AnimeViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.items_animelist, parent, false);
 
-        appCompatActivity = (AppCompatActivity) view.getContext();
         return new AnimeViewHolder(view);
     }
 
